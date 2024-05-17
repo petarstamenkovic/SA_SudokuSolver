@@ -8,3 +8,6 @@ from the yarpiz.com site and modified it to fit my project. In this repo :
   3. Documentation of the project (on Serbian)
 
 If you want to modify the performance i suggest you experiment with various combinations of control parameter **temperature** and **number of iterations**. 
+
+![image](https://github.com/petarstamenkovic/SA_SudokuSolver/assets/113508828/672d5c46-eac1-42f6-a61b-b69b5ffb0273)
+
